@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="svg1044"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Pqp_BoiteVisferm.svg">
+  <defs
+     id="defs1038" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="32"
+     inkscape:cx="4.3464058"
+     inkscape:cy="1.0762486"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:showpageshadow="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1533"
+     inkscape:window-height="845"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true"
+     inkscape:snap-global="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-smooth-nodes="true">
+    <sodipodi:guide
+       position="0,1"
+       orientation="0,1"
+       id="guide863"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="15.649999,1.00005"
+       orientation="1,0"
+       id="guide865"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="9.5249997,4.1500484"
+       orientation="0,1"
+       id="guide4573"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="7.8249998,5.8500484"
+       orientation="1,0"
+       id="guide4575"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1041">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-32.41665)">
+    <path
+       style="opacity:0.272;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09999997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 7.8242188 992.34961 C 5.8912222 992.34961 4.4908835 994.1892 3.484375 995.9375 C 2.5199799 997.6127 1.5141489 999 0 999 L 0 1000 L 15.650391 1000 L 15.650391 999 C 14.136242 999 13.128458 997.6127 12.164062 995.9375 C 11.157553 994.1892 9.7572147 992.34961 7.8242188 992.34961 z M 7.8242188 994.15039 A 1.6999999 1.6999999 0 0 1 9.5253906 995.84961 A 1.6999999 1.6999999 0 0 1 7.8242188 997.55078 A 1.6999999 1.6999999 0 0 1 6.125 995.84961 A 1.6999999 1.6999999 0 0 1 7.8242188 994.15039 z "
+       transform="translate(0,32.41665)"
+       id="path815-0-4-4" />
+  </g>
+</svg>
