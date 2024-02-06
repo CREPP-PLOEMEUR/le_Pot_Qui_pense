@@ -1,12 +1,13 @@
 <!--# Le Pot Qui Pense -->
-<!--$ jardinage-->
+<!--+ 2019-2020 -->
+<!--$ Jardinage-->
 <!--$ Python -->
-<!--% Un projet de plante connectée -->
+<!--% Un projet de plante connectée pour arroser automatiquement une plante. -->
 # Pot Qui Pense
 
 ## Le projet 
 
-Une plante connectée
+Un projet de plante connectée pour arroser automatiquement une plante.
 
 ![Pinout](.img/pqp.jpg)
 
